@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bay:home|Door43 (bay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bay|d43-bay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bay/archive/master.zip|d43-bay.zip]]
+
+**Recent Changes**
+{{changes>ns = bay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bay|Ethnologue data]]
+
